@@ -13,6 +13,11 @@ lesley, lezzles, lelegai  -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
+[What I'm Making 🎁 ](https://www.lesleycheung.com)
+
+[What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/)
+
+
 <!-- <img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280"> -->
 <!-- <a target="_blank" href="https://www.goodreads.com/user_challenges/27197030">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=default" width="200"/>
@@ -27,7 +32,7 @@ lesley, lezzles, lelegai  -->
 
 <!-- Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 What I'm Thinking ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
