@@ -14,12 +14,8 @@ lesley, lezzles, lelegai  -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://open.spotify.com/user/lezzles11)
 
 [What I'm Making 🎁 ](https://www.lesleycheung.com)
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="mrchenliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/)
