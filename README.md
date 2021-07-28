@@ -11,7 +11,7 @@ lesley, lezzles, lelegai  -->
 [What I'm Listening To 🤗 ](https://open.spotify.com/user/lezzles11)
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://open.spotify.com/user/lezzles11)
 
 [What I'm Making 🎁 ](https://www.lesleycheung.com)
 
