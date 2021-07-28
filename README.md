@@ -1,12 +1,14 @@
-### Hi there 👋
-
+### hi 👋
+<!-- 
 #### Names 😄
-lesley, lezzles, lelegai 
+lesley, lezzles, lelegai  -->
 <!-- **lezzles11/lezzles11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- - 🌱 I’m currently learning React Native  -->
-[What I'm Reading 🌱 ](https://www.goodreads.com/user_challenges/27197030)
-#### What I'm Listening To 🤗
+
+[What I'm Reading 🌱 ](https://www.goodreads.com/lezzles)
+<!-- [What I'm Reading 🌱 ](https://www.goodreads.com/user_challenges/27197030) -->
+[What I'm Listening To 🤗 ](https://open.spotify.com/user/lezzles11)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
