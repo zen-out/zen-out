@@ -7,7 +7,7 @@
 <!-- 
 - [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) 
  -->
-🤗 [<img src="https://spotify-now-playing.lezzles11.vercel.app/api/spotify" alt="Lesley's Spotify Playing" width="350" />](https://open.spotify.com/user/1627a9f6cb1a4bb7)
+🤗 [<img src="https://spotify-now-playing.lezzles11.vercel.app/api/spotify" alt="Lesley's Spotify Playing" width="350" />](https://open.spotify.com/user/lezzles11?si=4f5c0ad7e28a45df)
 
 <!-- (https://open.spotify.com/user/12168690942) -->
 
