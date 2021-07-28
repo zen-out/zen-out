@@ -9,7 +9,7 @@ lesley, lezzles, lelegai  -->
 [What I'm Reading 🌱 ](https://www.goodreads.com/lezzles)
 <!-- [What I'm Reading 🌱 ](https://www.goodreads.com/user_challenges/27197030) -->
 [What I'm Listening To 🤗 ](https://open.spotify.com/user/lezzles11)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
