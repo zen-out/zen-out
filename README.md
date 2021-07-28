@@ -1,6 +1,8 @@
 ### Hi there 👋
-😄 Pronouns: lezzles, lelegai 
-**lezzles11/lezzles11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<br/>
+- 😄 Pronouns: lezzles, lelegai 
+<!-- **lezzles11/lezzles11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- - 🌱 I’m currently learning React Native  -->
 
