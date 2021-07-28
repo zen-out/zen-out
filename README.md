@@ -7,6 +7,8 @@ lezzles, lelegai
 <!-- - 🌱 I’m currently learning React Native  -->
 #### What I'm Reading 🌱 
 [![goodreads](https://www.dropbox.com/s/f73pfes81nr10yr/goodreads.png?raw=1)](https://www.goodreads.com/user_challenges/27197030)
+
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280">
 <!-- <a target="_blank" href="https://www.goodreads.com/user_challenges/27197030">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=default" width="200"/>
  </a> -->
