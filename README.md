@@ -9,7 +9,9 @@
 <!-- 
 - [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) 
  -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+ <br/>
+ 
+- Listening to [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- (https://open.spotify.com/user/12168690942) -->
 
