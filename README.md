@@ -12,6 +12,7 @@ lesley, lezzles, lelegai  -->
 <!-- - 🌱 I’m currently learning React Native  -->
 
 [What I'm Reading 🌱 ](https://www.goodreads.com/lezzles)
+- https://www.goodreads.com/lezzles
 <!-- [What I'm Reading 🌱 ](https://www.goodreads.com/user_challenges/27197030) -->
 [What I'm Listening To 🤗 ](https://open.spotify.com/user/lezzles11)
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
@@ -23,7 +24,7 @@ lesley, lezzles, lelegai  -->
 
 
 
-[What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/)
+<!-- [What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/) -->
 
 
 <!-- <img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280"> -->
