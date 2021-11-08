@@ -1,5 +1,7 @@
 ### hi 👋
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@lezzles11/4bfb3beb-f9df-4da1-9e42-63f2daccf499.png" /></a>
+
 #### What I'm Making 🎁 
 - www.kellan.page
 - www.hyggechats.club
