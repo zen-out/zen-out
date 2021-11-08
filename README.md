@@ -1,6 +1,5 @@
 ### hi 👋
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@lezzles11/a256b1c8-9803-4454-b08f-84767fbdc78d.png" width="500" /></a> -->
-<a href="https://wakatime.com/@lezzles11"><img src="https://wakatime.com/share/@lezzles11/4bfb3beb-f9df-4da1-9e42-63f2daccf499.png" width="500" /></a>
+[![wakatime](https://wakatime.com/badge/user/25e74f89-c9dd-4b9a-819c-23c9f3ae40ae.svg)](https://wakatime.com/@25e74f89-c9dd-4b9a-819c-23c9f3ae40ae)
 <a href="https://wakatime.com/@lezzles11"><img src="https://wakatime.com/share/@lezzles11/47fcba96-c3c5-4950-8cab-877502725f41.png" width="500"/></a>
 *stats powered by wakatime*
 
