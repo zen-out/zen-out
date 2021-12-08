@@ -58,9 +58,10 @@ lesley, lezzles, lelegai  -->
 
  <br/>
  aspirations: <br/>
- [antonio gaudi, original gangster][https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD]
+ <a href="https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD">antonio gaudi, original gangster</a>
+ <div style="display: flex; flex-direction: row;">
  <img src="./baller2.png" width="35%" /> <img src="./baller1.png" width="35%" />
- 
+ </div>
 
 
 <!-- [What I'm Doing 🎂](https://www.lesleycheung.com) -->
