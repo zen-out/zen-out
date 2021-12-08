@@ -62,6 +62,9 @@ lesley, lezzles, lelegai  -->
  -->
 
  <br/>
+ aspirations: <br/>
+ [antonio gaudi, og](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 
+ <img src="./baller2.png" width="50%" /> <img src="./baller1.png" width="50%" />
  
 
 <!-- (https://open.spotify.com/user/12168690942) -->
