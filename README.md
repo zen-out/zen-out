@@ -4,10 +4,10 @@
 *stats powered by wakatime*
 <br/>
 
-“Homo sum: humani nil a me alienum puto” 
-*I am human; I consider nothing human alien to me*
-～人所具有的，我都具有～
-- my homeboy, Terence
+“Homo sum: humani nil a me alienum puto” <br/>
+*I am human; I consider nothing human alien to me*<br/>
+～人所具有的，我都具有～<br/>
+- my homeboy, Terence<br/>
 Roman Comic Playwright 
 #### What I'm Making 🎁 
 - www.kellan.page
