@@ -16,7 +16,7 @@ Roman Comic Playwright*
 - in progress :D 
 - https://www.debugging.tools 
 - <img src="./hover.png" alt="funHover" width="80%"/>
-- ![solve all the problems]<img src="./home.png" alt="funHover" width="50%"/>
+-<img src="./home.png" alt="funHover" width="80%"/>
 
 currently on hold: 
 https://hyggechats.club
