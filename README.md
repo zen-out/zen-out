@@ -58,7 +58,7 @@ lesley, lezzles, lelegai  -->
 
  <br/>
  aspirations: <br/>
- [antonio gaudi, original gangster](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 
+ [antonio gaudi, original gangster ](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD)
  <img src="./baller2.png" width="35%" /> <img src="./baller1.png" width="35%" />
  
 
