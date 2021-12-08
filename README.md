@@ -26,7 +26,11 @@ lesley, lezzles, lelegai  -->
 [What I'm Doing 🎂](https://www.lesleycheung.com)
   <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
 
-
+“Homo sum: humani nil a me alienum puto” 
+*I am human; I consider nothing human alien to me*
+～人所具有的，我都具有～
+- my homeboy, Terence
+Roman Comic Playwright 
 
 <!-- [What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/) -->
 
