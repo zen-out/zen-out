@@ -43,12 +43,15 @@ lesley, lezzles, lelegai  -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://open.spotify.com/user/lezzles11)
 
-<!-- [What I'm Doing 🎂](https://www.lesleycheung.com) -->
-  <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
 <br/><br/>
 <br/>
 <br/>my proudest moment in 2021<br/>
-<img src="./humblebrag.PNG" width="20%" />
+<img src="./humblebrag.PNG" width="30%" />
+*being a baller, or a loser, not sure*
+<br/>
+
+<!-- [What I'm Doing 🎂](https://www.lesleycheung.com) -->
+  <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
 <!-- [What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/) -->
 
 
