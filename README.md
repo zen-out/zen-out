@@ -43,10 +43,9 @@ lesley, lezzles, lelegai  -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://open.spotify.com/user/lezzles11)
 
-<br/><br/>
-<br/>
 <br/>my proudest moment in 2021<br/>
 <img src="./humblebrag.PNG" width="30%" />
+<br/>
 *being a baller, or a loser, not sure*
 <br/>
 
