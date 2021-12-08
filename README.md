@@ -20,13 +20,12 @@ currently under maintenance:
 https://hyggechats.club
 <img src="https://www.dropbox.com/s/s2weeld6z3y1g5h/cover.png?raw=1" width="45%"></img> 
 <img src="https://www.dropbox.com/s/nev5oyor7d5zbs0/about1.png?raw=1" width="45%"></img> 
-<img src="https://www.dropbox.com/s/5uwizse3bhbs5e1/home1.png?raw=1" width="45%"></img> 
 <img src="https://www.dropbox.com/s/d4en28gwngvw73z/categories.png?raw=1" width="45%"></img> 
 
 - 
 - <img src="./colors.png" alt="seriously" width="250px"/>
-- <img src="./weddingcard.png" alt="purpleIsBeautiful" width="250px"/>
-- <img src="./hover.png" alt="funHover" width="250px"/>
+- <img src="./weddingcard.png" alt="purpleIsBeautiful" width="40%"/>
+- <img src="./hover.png" alt="funHover" width="40%"/>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=lezzles11&theme=xcode" width="500">
 <!-- 
