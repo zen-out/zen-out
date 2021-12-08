@@ -49,11 +49,6 @@ lesley, lezzles, lelegai  -->
 *being a baller, or a loser, not sure*
 <br/>
 
-<!-- [What I'm Doing 🎂](https://www.lesleycheung.com) -->
-  <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
-<!-- [What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/) -->
-
-
 <!-- <img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280"> -->
 <!-- <a target="_blank" href="https://www.goodreads.com/user_challenges/27197030">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=default" width="200"/>
@@ -63,9 +58,15 @@ lesley, lezzles, lelegai  -->
 
  <br/>
  aspirations: <br/>
- [antonio gaudi, og](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 
- <img src="./baller2.png" width="50%" /> <img src="./baller1.png" width="50%" />
+ [antonio gaudi, original gangster](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) 
+ <img src="./baller2.png" width="35%" /> <img src="./baller1.png" width="35%" />
  
+
+
+<!-- [What I'm Doing 🎂](https://www.lesleycheung.com) -->
+  <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
+<!-- [What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/) -->
+
 
 <!-- (https://open.spotify.com/user/12168690942) -->
 
