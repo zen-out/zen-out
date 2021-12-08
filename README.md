@@ -45,10 +45,10 @@ lesley, lezzles, lelegai  -->
 
 <!-- [What I'm Doing 🎂](https://www.lesleycheung.com) -->
   <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
-
-
+<br/><br/>
+<br/>
 <br/>my proudest moment in 2021<br/>
-<img src="./humblebrag.PNG" width="40%" />
+<img src="./humblebrag.PNG" width="20%" />
 <!-- [What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/) -->
 
 
