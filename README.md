@@ -19,6 +19,10 @@ Roman Comic Playwright*
 currently under maintenance: 
 https://hyggechats.club
 
+
+- 
+- <img src="./colors.png" alt="seriously" width="250px"/>
+
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=lezzles11&theme=xcode" width="500">
 <!-- 
 #### Names 😄
@@ -34,7 +38,6 @@ lesley, lezzles, lelegai  -->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://open.spotify.com/user/lezzles11)
-- ![seriously]<img src="./colors.png" width="250px"/>
 
 [What I'm Doing 🎂](https://www.lesleycheung.com)
   <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
