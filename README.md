@@ -11,7 +11,7 @@
 Roman Comic Playwright* 
 #### What I'm Making 🎁 
 - https://www.kellan.page<br/>
-![made with kelly and ryan's vibe <3](https://www.dropbox.com/s/9b7l7iyhwva7cuu/kellan.gif?raw=1)
+![made with kelly and ryan's vibe <3](./kellan.gif)
 
 - https://www.debugging.tools
 
