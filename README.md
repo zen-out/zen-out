@@ -14,7 +14,7 @@ Roman Comic Playwright*
 ![made with kelly and ryan's vibe <3](./kellan.gif)
 
 - https://www.debugging.tools
-- <img src="./home" width="500"/>
+- ![solve all the problems](./home.png)
 
 currently under maintenance: 
 https://hyggechats.club
@@ -34,8 +34,7 @@ lesley, lezzles, lelegai  -->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lezzles11&cover_image=true&theme=compact)](https://open.spotify.com/user/lezzles11)
-
-<img src="./colors" width="500"/><br/>
+- ![seriously](./colors.png)
 
 [What I'm Doing 🎂](https://www.lesleycheung.com)
   <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
