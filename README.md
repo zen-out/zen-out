@@ -13,10 +13,12 @@ Roman Comic Playwright*
 - https://www.kellan.page<br/>
 ![made with kelly and ryan's vibe <3](./kellan.gif)
 
-- https://www.debugging.tools
-- ![solve all the problems](./home.png)
+- in progress :D 
+- https://www.debugging.tools 
+- <img src="./hover.png" alt="funHover" width="80%"/>
+- ![solve all the problems]<img src="./home.png" alt="funHover" width="50%"/>
 
-currently under maintenance: 
+currently on hold: 
 https://hyggechats.club
 <br/>
 <img src="https://www.dropbox.com/s/s2weeld6z3y1g5h/cover.png?raw=1" width="45%"></img>
@@ -24,7 +26,6 @@ https://hyggechats.club
 
 - 
 - <img src="./colors.png" alt="seriously" width="250px"/>
-- <img src="./hover.png" alt="funHover" width="80%"/>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=lezzles11&theme=xcode" width="500">
 <!-- 
 #### Names 😄
