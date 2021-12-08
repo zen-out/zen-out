@@ -24,8 +24,9 @@ https://hyggechats.club
 <img src="https://www.dropbox.com/s/s2weeld6z3y1g5h/cover.png?raw=1" width="45%"></img>
 <img src="https://www.dropbox.com/s/d4en28gwngvw73z/categories.png?raw=1" width="45%"></img> 
 
-- 
-- <img src="./colors.png" alt="seriously" width="250px"/>
+<br/>
+a random fact<br/>  
+<img src="./colors.png" alt="seriously" width="250px"/>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=lezzles11&theme=xcode" width="500">
 <!-- 
 #### Names 😄
