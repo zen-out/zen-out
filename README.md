@@ -13,10 +13,10 @@ Roman Comic Playwright*
 - https://www.kellan.page<br/>
 ![made with kelly and ryan's vibe <3](./kellan.gif)
 
-- in progress :D 
-- https://www.debugging.tools 
-- <img src="./hover.png" alt="funHover" width="80%"/>
--<img src="./home.png" alt="funHover" width="80%"/>
+
+- https://www.debugging.tools (in progress :D) 
+<img src="./hover.png" alt="funHover" width="80%"/>
+<img src="./home.png" alt="funHover" width="80%"/>
 
 currently on hold: 
 https://hyggechats.club
