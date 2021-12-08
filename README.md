@@ -2,7 +2,13 @@
 ### hi 👋
 <a href="https://wakatime.com/@lezzles11"><img src="https://wakatime.com/share/@lezzles11/47fcba96-c3c5-4950-8cab-877502725f41.png" width="500"/></a><br/>
 *stats powered by wakatime*
+<br/>
 
+“Homo sum: humani nil a me alienum puto” 
+*I am human; I consider nothing human alien to me*
+～人所具有的，我都具有～
+- my homeboy, Terence
+Roman Comic Playwright 
 #### What I'm Making 🎁 
 - www.kellan.page
 - www.hyggechats.club
@@ -26,11 +32,6 @@ lesley, lezzles, lelegai  -->
 [What I'm Doing 🎂](https://www.lesleycheung.com)
   <img align="left" alt="lezzles11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lezzles11&show_icons=true&hide_border=true" />
 
-“Homo sum: humani nil a me alienum puto” 
-*I am human; I consider nothing human alien to me*
-～人所具有的，我都具有～
-- my homeboy, Terence
-Roman Comic Playwright 
 
 <!-- [What I'm Accomplishing 🎂 ](https://www.linkedin.com/in/lezzles/) -->
 
