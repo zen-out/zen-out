@@ -18,6 +18,9 @@ Roman Comic Playwright*
 <img src="./hover.png" alt="funHover" width="80%"/>
 <img src="./home.png" alt="funHover" width="80%"/>
 
+
+![allThisEffort](./minifiedRepo.gif)
+
 currently on hold: 
 https://hyggechats.club
 <br/>
