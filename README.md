@@ -13,6 +13,11 @@ Roman Comic Playwright*
 - https://www.kellan.page<br/>
 ![made with kelly and ryan's vibe <3](./kellan.gif)
 
+my packages:
+[JQuery Selectors](https://www.npmjs.com/package/jquery_selectors_mergez)
+[Base Test](https://www.npmjs.com/package/html_basetest)
+[Date Time Utilities](https://www.npmjs.com/package/format_date_time_moment)
+
 
 ![allThisEffort](./minifiedRepo.gif)
 - https://www.debugging.tools (in progress :D) 
