@@ -1,4 +1,9 @@
 ## total code time ✨ [![wakatime](https://wakatime.com/badge/user/25e74f89-c9dd-4b9a-819c-23c9f3ae40ae.svg)](https://wakatime.com/@25e74f89-c9dd-4b9a-819c-23c9f3ae40ae)
+### my packages 🎁 
+- [JQuery Selectors](https://www.npmjs.com/package/jquery_selectors_mergez)
+- [Base Test](https://www.npmjs.com/package/html_basetest)
+- [Date Time Utilities](https://www.npmjs.com/package/format_date_time_moment)
+
 ### hi 
 <a href="https://wakatime.com/@lezzles11"><img src="https://wakatime.com/share/@lezzles11/47fcba96-c3c5-4950-8cab-877502725f41.png" width="500"/></a><br/>
 *stats powered by wakatime*
@@ -13,10 +18,6 @@ Roman Comic Playwright*
 - https://www.kellan.page<br/>
 ![made with kelly and ryan's vibe <3](./kellan.gif)
 
-my packages:
-[JQuery Selectors](https://www.npmjs.com/package/jquery_selectors_mergez)
-[Base Test](https://www.npmjs.com/package/html_basetest)
-[Date Time Utilities](https://www.npmjs.com/package/format_date_time_moment)
 
 
 ![allThisEffort](./minifiedRepo.gif)
