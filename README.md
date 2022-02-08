@@ -1,8 +1,18 @@
 ## total code time ✨ [![wakatime](https://wakatime.com/badge/user/25e74f89-c9dd-4b9a-819c-23c9f3ae40ae.svg)](https://wakatime.com/@25e74f89-c9dd-4b9a-819c-23c9f3ae40ae)
 ### my packages 🎁 
+- ![NPM Downloads](https://img.shields.io/npm/dw/jquery_selectors_mergez)
 - [JQuery Selectors](https://www.npmjs.com/package/jquery_selectors_mergez)
+
+
+- ![NPM Downloads](https://img.shields.io/npm/dw/html_basetest)
 - [Base Test](https://www.npmjs.com/package/html_basetest)
+
+- ![NPM Downloads](https://img.shields.io/npm/dw/format_date_time_moment)
 - [Date Time Utilities](https://www.npmjs.com/package/format_date_time_moment)
+
+
+- ![NPM Downloads](https://img.shields.io/npm/dw/handlebarstojsrender)
+- [Date Time Utilities](https://www.npmjs.com/package/handlebarstojsrender)
 
 ### hi 
 <a href="https://wakatime.com/@lezzles11"><img src="https://wakatime.com/share/@lezzles11/47fcba96-c3c5-4950-8cab-877502725f41.png" width="500"/></a><br/>
