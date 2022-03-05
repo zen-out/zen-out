@@ -1,10 +1,14 @@
 ## make the coolest things ✨
 ### my packages 🎁 
+
+
+- [Code Clarity](https://www.npmjs.com/package/code_clarity) ~ ![NPM Downloads](https://img.shields.io/npm/dw/code_clarity)
+- [Make Fakes (tool to generate fake data)](https://www.npmjs.com/package/make_fakes) ~ ![NPM Downloads](https://img.shields.io/npm/dw/make_fakes)
+- [Node Testing](https://www.npmjs.com/package/node_basetest) ~ ![NPM Downloads](https://img.shields.io/npm/dw/node_basetest)
 - [JQuery Selectors](https://www.npmjs.com/package/jquery_selectors_mergez) ~ ![NPM Downloads](https://img.shields.io/npm/dw/jquery_selectors_mergez)
 - [HTML Testing](https://www.npmjs.com/package/html_basetest) ~ ![NPM Downloads](https://img.shields.io/npm/dw/html_basetest)
 - [Date Time Utilities](https://www.npmjs.com/package/format_date_time_moment) ~ ![NPM Downloads](https://img.shields.io/npm/dw/format_date_time_moment)
 - [Handlebars to JS Render](https://www.npmjs.com/package/handlebarstojsrender) ~ ![NPM Downloads](https://img.shields.io/npm/dw/handlebarstojsrender)
-- [Node Testing](https://www.npmjs.com/package/node_basetest) ~ ![NPM Downloads](https://img.shields.io/npm/dw/node_basetest)
 
 ###  [![wakatime](https://wakatime.com/badge/user/25e74f89-c9dd-4b9a-819c-23c9f3ae40ae.svg)](https://wakatime.com/@25e74f89-c9dd-4b9a-819c-23c9f3ae40ae)
 <a href="https://wakatime.com/@lezzles11"><img src="https://wakatime.com/share/@lezzles11/47fcba96-c3c5-4950-8cab-877502725f41.png" width="500"/></a><br/>
