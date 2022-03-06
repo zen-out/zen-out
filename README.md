@@ -1,5 +1,5 @@
 ## make the coolest things ✨
-*what was, practically, the coolest thing about that?** 
+*be specific*
 
 ### my packages 🎁 
 
