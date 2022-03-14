@@ -2,15 +2,27 @@
 *be specific*
 
 ### my packages 🎁 
-
-
-- [Code Clarity](https://www.npmjs.com/package/code_clarity) ~ ![NPM Downloads](https://img.shields.io/npm/dw/code_clarity)
-- [Make Fakes (tool to generate fake data)](https://www.npmjs.com/package/make_fakes) ~ ![NPM Downloads](https://img.shields.io/npm/dw/make_fakes)
-- [Node Testing](https://www.npmjs.com/package/node_basetest) ~ ![NPM Downloads](https://img.shields.io/npm/dw/node_basetest)
-- [JQuery Selectors](https://www.npmjs.com/package/jquery_selectors_mergez) ~ ![NPM Downloads](https://img.shields.io/npm/dw/jquery_selectors_mergez)
-- [HTML Testing](https://www.npmjs.com/package/html_basetest) ~ ![NPM Downloads](https://img.shields.io/npm/dw/html_basetest)
-- [Date Time Utilities](https://www.npmjs.com/package/format_date_time_moment) ~ ![NPM Downloads](https://img.shields.io/npm/dw/format_date_time_moment)
-- [Handlebars to JS Render](https://www.npmjs.com/package/handlebarstojsrender) ~ ![NPM Downloads](https://img.shields.io/npm/dw/handlebarstojsrender)
+- [array_helperz](https://www.npmjs.com/package/array_helperz) ~ ![NPM Downloads](https://img.shields.io/npm/dw/array_helperz)
+- [automate_me](https://www.npmjs.com/package/automate_me) ~ ![NPM Downloads](https://img.shields.io/npm/dw/automate_me)
+- [bulletproof_me](https://www.npmjs.com/package/bulletproof_me) ~ ![NPM Downloads](https://img.shields.io/npm/dw/bulletproof_me)
+- [clear_concise_creative](https://www.npmjs.com/package/clear_concise_creative) ~ ![NPM Downloads](https://img.shields.io/npm/dw/clear_concise_creative)
+- [code_clarity](https://www.npmjs.com/package/code_clarity) ~ ![NPM Downloads](https://img.shields.io/npm/dw/code_clarity)
+- [define_me](https://www.npmjs.com/package/define_me) ~ ![NPM Downloads](https://img.shields.io/npm/dw/define_me)
+- [effective_knex](https://www.npmjs.com/package/effective_knex) ~ ![NPM Downloads](https://img.shields.io/npm/dw/effective_knex)
+- [explain_me](https://www.npmjs.com/package/explain_me) ~ ![NPM Downloads](https://img.shields.io/npm/dw/explain_me)
+- [handlebarstojsrender](https://www.npmjs.com/package/handlebarstojsrender) ~ ![NPM Downloads](https://img.shields.io/npm/dw/handlebarstojsrender)
+- [html_basetest](https://www.npmjs.com/package/html_basetest) ~ ![NPM Downloads](https://img.shields.io/npm/dw/html_basetest)
+- [jquery_selectors_mergez](https://www.npmjs.com/package/jquery_selectors_mergez) ~ ![NPM Downloads](https://img.shields.io/npm/dw/jquery_selectors_mergez)
+- [know_youre_real](https://www.npmjs.com/package/know_youre_real) ~ ![NPM Downloads](https://img.shields.io/npm/dw/know_youre_real)
+- [lesleys_hbs](https://www.npmjs.com/package/lesleys_hbs) ~ ![NPM Downloads](https://img.shields.io/npm/dw/lesleys_hbs)
+- [make_fakes](https://www.npmjs.com/package/make_fakes) ~ ![NPM Downloads](https://img.shields.io/npm/dw/make_fakes)
+- [make_legit](https://www.npmjs.com/package/make_legit) ~ ![NPM Downloads](https://img.shields.io/npm/dw/make_legit)
+- [node_basetest](https://www.npmjs.com/package/node_basetest) ~ ![NPM Downloads](https://img.shields.io/npm/dw/node_basetest)
+- [proud_of_me](https://www.npmjs.com/package/proud_of_me) ~ ![NPM Downloads](https://img.shields.io/npm/dw/proud_of_me)
+- [sparkly_clean](https://www.npmjs.com/package/sparkly_clean) ~ ![NPM Downloads](https://img.shields.io/npm/dw/sparkly_clean)
+- [test_waters](https://www.npmjs.com/package/test_waters) ~ ![NPM Downloads](https://img.shields.io/npm/dw/test_waters)
+- [whats_wrong](https://www.npmjs.com/package/whats_wrong) ~ ![NPM Downloads](https://img.shields.io/npm/dw/whats_wrong)
+- [when_you_free](https://www.npmjs.com/package/when_you_free) ~ ![NPM Downloads](https://img.shields.io/npm/dw/when_you_free)
 
 ###  [![wakatime](https://wakatime.com/badge/user/25e74f89-c9dd-4b9a-819c-23c9f3ae40ae.svg)](https://wakatime.com/@25e74f89-c9dd-4b9a-819c-23c9f3ae40ae)
 <a href="https://wakatime.com/@lezzles11"><img src="https://wakatime.com/share/@lezzles11/47fcba96-c3c5-4950-8cab-877502725f41.png" width="500"/></a><br/>
