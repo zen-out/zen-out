@@ -1,7 +1,8 @@
 ## make the coolest things ✨
-*be specific*
+*learn to see*
 
 ### my packages 🎁 
+
 - [array_helperz](https://www.npmjs.com/package/array_helperz) ~ ![NPM Downloads](https://img.shields.io/npm/dw/array_helperz)
 - [automate_me](https://www.npmjs.com/package/automate_me) ~ ![NPM Downloads](https://img.shields.io/npm/dw/automate_me)
 - [bulletproof_me](https://www.npmjs.com/package/bulletproof_me) ~ ![NPM Downloads](https://img.shields.io/npm/dw/bulletproof_me)
