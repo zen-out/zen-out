@@ -1,7 +1,4 @@
-## make the coolest things ✨
-*learn to see*
-
- 
+## 
 <!--
   
 ### my packages 🎁
