@@ -26,7 +26,6 @@
 - [whats_wrong](https://www.npmjs.com/package/whats_wrong) ~ ![NPM Downloads](https://img.shields.io/npm/dw/whats_wrong)
 - [when_you_free](https://www.npmjs.com/package/when_you_free) ~ ![NPM Downloads](https://img.shields.io/npm/dw/when_you_free)
 
--->
 
 ###  [![wakatime](https://wakatime.com/badge/user/25e74f89-c9dd-4b9a-819c-23c9f3ae40ae.svg)](https://wakatime.com/@25e74f89-c9dd-4b9a-819c-23c9f3ae40ae)
 <a href="https://wakatime.com/@lezzles11"><img src="https://wakatime.com/share/@lezzles11/47fcba96-c3c5-4950-8cab-877502725f41.png" width="500"/></a><br/>
@@ -38,6 +37,10 @@
 ～人所具有的，我都具有～<br/>
 *my homeboy, Terence<br/>
 Roman Comic Playwright* 
+
+-->
+
+
 #### What I'm Making 🎁 
 - https://www.kellan.page<br/>
 ![made with kelly and ryan's vibe <3](./kellan.gif)
